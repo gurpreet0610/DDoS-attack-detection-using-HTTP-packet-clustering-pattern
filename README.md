@@ -1,1 +1,1 @@
-# DDoS-attack-detection-using-HTTP-packet-clustring-pattern-
+# DDoS-attack-detection-using-HTTP-packet-clustring-pattern
