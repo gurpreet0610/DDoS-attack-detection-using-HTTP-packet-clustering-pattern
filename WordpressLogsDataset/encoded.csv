@@ -1,6 +1,0 @@
-,bytes,geoip.country_code3_US,geoip.country_code3_others,geoip.country_code3_unknown,httpversion_1.1,httpversion_error,response_301,response_302,response_400,response_404,response_408,response_500,useragent.name_Chrome Mobile,useragent.name_Firefox,useragent.name_Mobile Safari,useragent.name_Other,useragent.name_others,useragent.os_Debian,useragent.os_Linux,useragent.os_Mac OS X,useragent.os_Other,useragent.os_Windows,useragent.os_iOS,useragent.os_others,verb_GET,verb_HEAD,verb_POST,verb_error
-18,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1
-50,410,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
-52,15,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
-70,99,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
-71,194,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
